@@ -1,4 +1,4 @@
-This program is a simple bitcoin price notification service.
+This is a simple bitcoin price notification service.
 
 The program sends the latest bitcoin price to Telegram once every 5mins.
 
